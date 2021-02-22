@@ -2,6 +2,6 @@
 
 ## titulo nivel 2
 
-git config --global user.name "Sara Bengoa";
+git config --global user.name "Sara Bengoaaaa";
 
 
